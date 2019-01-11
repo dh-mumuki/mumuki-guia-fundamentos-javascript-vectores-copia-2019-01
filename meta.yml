@@ -1,0 +1,31 @@
+---
+name: Arrays
+locale: es
+type: learning
+beta: false
+teacher_info: ''
+language: javascript
+id_format: "%05d"
+order:
+- 21
+- 1
+- 11
+- 10
+- 2
+- 5
+- 3
+- 8
+- 6
+- 7
+- 9
+- 13
+- 14
+- 15
+- 20
+- 16
+- 22
+- 17
+- 18
+- 19
+- 12
+private: false
